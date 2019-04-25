@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Own Number</string>
+    <string name="gp_string">*2#</string>
+    <string name="robi_string">*140*2*4#</string>
+    <string name="airtel_string">*121*7*3#</string>
+    <string name="banglalink_string">*511#</string>
+    <string name="teletalk_string">*551#</string>
+    <string name="sim_one_string">SIM1</string>
+    <string name="sim_two_string">SIM2</string>
+
+    <string name="ban">আপনার মোবাইল নম্বর খুঁজে বের করুন</string>
+</resources>
