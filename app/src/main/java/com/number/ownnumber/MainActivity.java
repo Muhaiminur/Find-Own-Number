@@ -238,7 +238,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void bannerad() {
-        adView = new AdView(this, "YOUR_PLACEMENT_ID", AdSize.BANNER_HEIGHT_50);
+        adView = new AdView(this, "1381082438698888_1381091598697972", AdSize.BANNER_HEIGHT_50);
 
         // Find the Ad Container
         LinearLayout adContainer = findViewById(R.id.banner_container);
@@ -276,7 +276,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void interstellar(){
-        interstitialAd = new InterstitialAd(this, "VID_HD_16_9_46S_APP_INSTALL#266649924191812_266660790857392");
+        interstitialAd = new InterstitialAd(this, "1381082438698888_1381089818698150");
         // Set listeners for the Interstitial Ad
         interstitialAd.setAdListener(new InterstitialAdListener() {
             @Override
